@@ -1,0 +1,7 @@
+https://www.developer.com/java/exploring-rest-apis-with-spring-mvc/
+
+https://gatostudy.com/huong-dan-ket-hop-spring-data-jpa-voi-springboot-qua-vi-du/
+
+https://www.javatpoint.com/spring-boot-crud-operations
+
+https://medium.com/swlh/building-a-crud-restful-api-web-service-with-spring-boot-a4f29edfbcd3
